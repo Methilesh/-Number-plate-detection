@@ -1,6 +1,3 @@
-# -Number-plate-detection
-Creating a README file for a project is essential to help users and developers understand your code and how to use it. Here's a basic template for a README file for a "Number Plate Detection using OpenCV and pytesseract" project:
-
 # Number Plate Detection using OpenCV and pytesseract
 
 ## Overview
